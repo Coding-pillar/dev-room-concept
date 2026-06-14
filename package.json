@@ -1,0 +1,17 @@
+{
+  "name": "dealroom",
+  "version": "1.0.0",
+  "description": "Dealroom, a Node.js social media style scrolling feed app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "social",
+    "feed",
+    "scrolling"
+  ],
+  "author": "",
+  "license": "MIT"
+}
